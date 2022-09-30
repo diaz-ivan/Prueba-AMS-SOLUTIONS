@@ -74,10 +74,7 @@ def conversionPesetas(costo,id_libro):
 
 
 
-'''fecha = cursor.execute(
-for fechaEdicion in fecha:
-        fechaEdicion = fechaEdicion.month()
-print(fechaEdicion)'''
+
 
 #mostrar_valor()
 
