@@ -1,0 +1,1 @@
+UPDATE Libros SET Costo=20 WHERE LibroID=1
